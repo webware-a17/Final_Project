@@ -8,3 +8,5 @@ Para que funcione. Llamen los siguientes commands:
   <li>npm install firebase --save</li>
   </ul>
   
+  <liPorfa agreguen info de cada file que hagan para entednder que entendamos que estamos haciendo. </li>
+  <li>Tambien podemos hacer una lista de que es los que tenemos que hacer</li>
