@@ -1,7 +1,9 @@
 ﻿# Final_Project
 
 Para que funcione. En my-app llamen los siguientes commands:
-
-  create-react-app my-app
-  yarn add re-base
-  npm install firebase --save
+  <ul>
+  <li>create-react-app my-app</li>
+  <li>yarn add re-base</li>
+  <li>npm install firebase --save</li>
+  </ul>
+  
