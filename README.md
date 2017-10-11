@@ -1,12 +1,3 @@
 ﻿# Final_Project
 
-Para que funcione. Llamen los siguientes commands:
-  <ul>
-  <li>create-react-app my-app</li>
-  <li>cd my-app</li>
-  <li>yarn add re-base</li>
-  <li>npm install firebase --save</li>
-  </ul>
-  
-  <li>Porfa agreguen info de cada file que hagan para entender que entendamos que estamos haciendo. </li>
-  <li>Tambien podemos hacer una lista de que es los que tenemos que hacer</li>
+Ahi ya esta el codigo para login y logout. Solo hay que determinar como quieren que sea el state chart.
